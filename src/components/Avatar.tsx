@@ -7,7 +7,7 @@ export default function Avatar() {
       <div className={styles.ring}>
         <img
           className={styles.image}
-          src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&h=400&fit=crop&crop=faces"
+          src="https://ewbgpvlexeafgpwsjqei.supabase.co/storage/v1/object/public/prompt-images/build-images/1779195141589-WhatsApp-Image-2026-04-15-at-10.02.47-PM.jpeg"
           alt="Profile avatar"
         />
       </div>
